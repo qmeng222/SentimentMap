@@ -2,3 +2,4 @@
 .cache
 *.csv
 .ipynb_checkpoints/
+env/
