@@ -1,5 +1,8 @@
+# files:
 .env
 .cache
 *.csv
+
+# folders:
 .ipynb_checkpoints/
 env/
