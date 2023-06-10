@@ -2,7 +2,9 @@
 
 ## Overview:
 
-- About: a movie plot generator (generates a movie plot description based on seed input) and content-based movie recommender
+SentimentMap harnesses the gpt-3.5-turbo model to perform sentiment analysis on Reddit comments from the current month. Using a scoring system ranging from -1 (most negative) to 1 (most positive), SentimentMap generates insightful city-specific visualizations that provide a comprehensive overview of the sentiment landscape.
+
+![sentiment map by city](/SentimentMap_res.png)
 
 ## Setup:
 
