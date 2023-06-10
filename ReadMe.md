@@ -2,7 +2,7 @@
 
 ## Overview:
 
-SentimentMap harnesses the gpt-3.5-turbo model to perform sentiment analysis on Reddit comments from the current month. Using a scoring system ranging from -1 (most negative) to 1 (most positive), SentimentMap generates informative topic-specific visualizations that provide a comprehensive overview of the sentiment landscape.
+SentimentMap utilizes the powerful gpt-3.5-turbo model for sentiment analysis on current month's Reddit comments. With a scoring system from -1 (most negative) to 1 (most positive), it generates insightful topic-specific visualizations, offering a comprehensive overview of the sentiment landscape.
 
 ![sentiment map by city](/SentimentMap_res.png)
 
