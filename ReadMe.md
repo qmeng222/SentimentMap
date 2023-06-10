@@ -29,8 +29,8 @@
    - Install the Python Reddit API Wrapper (PRAW): `pip install praw`
    - Install the tiktoken package to count the number of tokens: `pip install tiktoken`
    - Install the pandas package for data analysis: `pip install pandas`
-   - Install the seaborn package for data visualization: `pip install seaborn`
    - Install the matplotlib package to plot data: `pip install matplotlib`
+   - Install the seaborn package for data visualization: `pip install seaborn`
    - Install the tenacity library for retrying operations: `pip install tenacity`
    - Install the Interactive Python package: `pip install IPython`
 5. Generate a snapshot of the installed packages and their versions to the requirements.txt file (or overwrite the txt file): `pip freeze > requirements.txt`, so others can install all the packages and their respective versions specified in the requirements.txt file with `pip install -r requirements.txt`
